@@ -26,7 +26,7 @@
       <con:restRequest name="REST Request 2" id="78460e3a-0ec6-4116-a62c-ded40aa2b429" mediaType="application/json">
         <con:settings/>
         <con:encoding>UTF-8</con:encoding>
-        <con:endpoint>http://test.com</con:endpoint>
+        <con:endpoint>http://test.com/new</con:endpoint>
         <con:request/>
         <con:credentials>
           <con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile>
