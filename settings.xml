@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="17221a27-0711-462e-8a3a-290c062e1022" activeEnvironment="Default environment" name="Project with tags" lastOpened="2017-04-14T12:08:02.460+03:00" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="17221a27-0711-462e-8a3a-290c062e1022" activeEnvironment="Default environment" name="Project with tags" lastOpened="2017-04-14T12:09:12.771+03:00" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="17221a27-0711-462e-8a3a-290c062e1022fileName">Project-with-tags-soapui-project</con:setting>
     <con:setting id="com.smartbear.swagger.ExportSwaggerAction$FormBase Path"/>
